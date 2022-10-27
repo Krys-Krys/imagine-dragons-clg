@@ -30,7 +30,11 @@ td, th {
     border-color: #931616;
 }
 
-.galerie {
-    border: 5px solid #D53939;
+img {
+    border: 10px solid #D53939;
   }
+
+hr {
+    border: 2px solid #D53939;
+}
 

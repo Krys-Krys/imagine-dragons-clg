@@ -17,14 +17,17 @@ a:visited, footer {
 
 table {
     table-layout: fixed;
-    width: 300px;
+    width: 700px;
     border: solid;
+    border-color: #931616;
     border-collapse: collapse;
+    text-align: center;
 }
 
 
 td, th {
-    border: 1px solid
+    border: 1px solid;
+    border-color: #931616;
 }
 
 img {

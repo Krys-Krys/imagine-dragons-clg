@@ -11,7 +11,7 @@ a {
     color: #D53939 !important;
 }
 
-a:visited {
+a:visited, footer {
     color: #4E5A64 !important;
 }
 

@@ -34,3 +34,7 @@ td, th {
     border: 5px solid #D53939;
   }
 
+svg {
+    height: 100;
+    width: 100;
+}

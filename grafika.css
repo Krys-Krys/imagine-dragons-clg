@@ -18,5 +18,12 @@ a:visited, footer {
 table {
     table-layout: fixed;
     width: 300px;
+    border: solid;
+    border-collapse: collapse;
+}
+
+
+td, th {
+    border: 1px solid
 }
 

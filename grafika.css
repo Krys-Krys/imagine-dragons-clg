@@ -2,3 +2,11 @@ body {
     background-color: #E7DCC5;
     color: #140000;
 }
+
+a {
+    color: #D53939 !important;
+}
+
+a:visited {
+    color: #4E5A64 !important;
+}

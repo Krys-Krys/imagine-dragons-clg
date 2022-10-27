@@ -1,4 +1,17 @@
+h2, h3 {
+    color: #931616 !important;
+}
+
 body {
     background-color: #E7DCC5;
     color: #140000;
 }
+
+a {
+    color: #D53939 !important;
+}
+
+a:visited, footer {
+    color: #4E5A64 !important;
+}
+

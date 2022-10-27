@@ -1,3 +1,6 @@
+html{
+    box-sizing: border-box;
+}
 h2, h3 {
     color: #931616 !important;
 }
@@ -42,7 +45,11 @@ svg {
 hr {
     border: 2px solid #D53939;
 }
-.ikony{
+
+img .socialniSite{
     height: 100;
     width: 100;
+    }
+footer {
+    text-align: center;
 }

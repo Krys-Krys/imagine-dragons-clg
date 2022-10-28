@@ -102,7 +102,7 @@ div {
 }
 
 
-.center {
+.center2 {
     text-align: center;
 }
 
@@ -121,9 +121,7 @@ h1 {
     border-color:#D53939;
 
 }
-.center {
-    text-align: center;
-}
+
 .topnav {
     margin: 2%;
     text-align: center;
@@ -144,10 +142,21 @@ nav{
     font-family: Bebas Neue;
 }
 
+.pernik p {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.spacer {
+    flex-grow: 1;
+}
 
 
 
 
 
 
-
+.divspecial {
+    padding-left: 500px;
+}

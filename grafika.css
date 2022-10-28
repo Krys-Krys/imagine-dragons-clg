@@ -53,6 +53,7 @@ img .socialniSite{
     height: 100;
     width: 100;
     }
+
 footer {
     text-align: center;
     color:#4E5A64
@@ -64,8 +65,8 @@ footer {
 
 * {
     font-family: 'Titillium Web', sans-serif;
-    
 }
+
 div {
     margin: 5%;
 
@@ -76,4 +77,11 @@ h1 {
     color: #931616 !important;
     text-align: center;
     font-size: 70px ;
+}
+
+.alba {
+    width: 300px;
+    height: 300px;
+    border: 4px solid;
+    border-color:#D53939;
 }

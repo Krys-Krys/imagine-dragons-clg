@@ -67,6 +67,11 @@ hr {
     border: 2px solid #D53939;
 }
 
+img .socialniSite{
+    height: 100;
+    width: 100;
+    }
+
 footer {
     text-align: center;
     color:#4E5A64
@@ -78,8 +83,8 @@ footer {
 
 * {
     font-family: 'Titillium Web', sans-serif;
-    
 }
+
 div {
     margin-left: 5%;
     margin-right: 5%;
@@ -88,6 +93,24 @@ div {
 
 }
 
+<<<<<<< HEAD
 .center {
     text-align: center;
 }
+=======
+
+h1 {
+    font-family: 'Bebas Neue' !important;
+    color: #931616 !important;
+    text-align: center;
+    font-size: 70px ;
+}
+
+.alba {
+    width: 300px;
+    height: 300px;
+    border: 4px solid;
+    border-color:#D53939;
+}
+
+>>>>>>> af7b6afab22e41bc098aa2f63e31c7826c2ea707

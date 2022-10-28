@@ -33,9 +33,12 @@ td, th {
     border-color: #931616;
 }
 
-img {
-    border: 10px solid #D53939;
-  }
+
+#fotky {
+    border: 4px solid;
+    border-color:#D53939;
+}
+
 
 svg {
     height: 100 ipo !important;

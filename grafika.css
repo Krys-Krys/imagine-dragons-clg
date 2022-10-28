@@ -4,7 +4,15 @@ html{
 h2, h3 {
     color: #931616 !important;
 }
-
+h2 {
+    font-size: 180%;
+}
+h3 {
+    font-size: 140%;
+}
+h4 {
+    font-size: 120%;
+}
 body {
     background-color: #E7DCC5;
     color: #140000;
@@ -49,10 +57,6 @@ hr {
     border: 2px solid #D53939;
 }
 
-img .socialniSite{
-    height: 100;
-    width: 100;
-    }
 footer {
     text-align: center;
     color:#4E5A64
@@ -67,7 +71,10 @@ footer {
     
 }
 div {
-    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    margin-bottom: 3%;
 
 }
 
@@ -76,4 +83,8 @@ h1 {
     color: #931616 !important;
     text-align: center;
     font-size: 70px ;
+}
+img {
+    margin-left: 20px;
+    margin-right: 20px;
 }

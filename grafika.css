@@ -1,3 +1,6 @@
+html{
+    box-sizing: border-box;
+}
 h2, h3 {
     color: #931616 !important;
 }
@@ -30,8 +33,26 @@ td, th {
     border-color: #931616;
 }
 
+
 #fotky {
     border: 4px solid;
     border-color:#D53939;
-  }
+}
 
+
+svg {
+    height: 100;
+    width: 100;
+}
+
+hr {
+    border: 2px solid #D53939;
+}
+
+img .socialniSite{
+    height: 100;
+    width: 100;
+    }
+footer {
+    text-align: center;
+}

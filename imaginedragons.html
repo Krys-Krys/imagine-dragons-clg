@@ -15,10 +15,29 @@
     <!--<img logo>-->
     <div>
         <nav>
-            <a href="#zakladni info">Základní info</a>
-            <a href="#aktuality">Aktuality</a>
-            <a href="#odkazy">Odkazy</a>
-
+            <h2>Navigace</h2>
+            <ul>
+                <li><a href="#zakladni info">Základní info</a></li>
+                <ul>
+                    <li><a href="#dan reynolds">Daniel Reynolds</a></li>
+                    <li><a href="#wayne sermon">Wayne Sermon</a></li>
+                    <li><a href="#ben mckee">Ben McKee</a></li>
+                    <li><a href="#daniel platzman">Daniel Platzman</a></li>
+                </ul>
+                <li><a href="#aktuality">Aktuality</a></li>
+                <ul>
+                    <li><a href="#turne">Turné</a></li>
+                </ul>
+                <li><a href="#odkazy">Odkazy</a></li>
+                <ul>
+                    <li><a href="#nejznamejsiPisnicky">Nejznámější písničky</a></li>
+                    <li><a href="#socialnisite">Sociální sítě</a></li>
+                </ul>
+                <li><a href = "#galerie">Galerie</a></li>
+                <ul>
+                    <li><a href="#skupinove fotky">Skupinové fotky</a></li>
+                </ul>
+            </ul>
             <p>navigace bude dokončena po přidání id</p>
         </nav>
     </div>
@@ -71,9 +90,10 @@
         </p>
     </div>
     <hr>
-    <h2>Aktuality</h2>
+    <h2  id="aktuality">Aktuality </h2>
+    <h3 id="turne">Turné</h3>
     <p> Imagine Dragons je momentálně na world tour!</p>
-    <div id="aktuality">
+    <div>
         <table>
             <tr>
                 <th>Den</th>
@@ -118,8 +138,13 @@
         </table>
     </div>
     <div>
+        <h3 id="novaalba">Nová alba</h3>
+        
+    </div>
+    <hr>
+    <div>
         <h2 id="odkazy">Odkazy</h2>
-        <h3>Nejznámější písničky</h3>
+        <h3 id="nejznamejsiPisnicky">Nejznámější písničky</h3>
         <ul>
             <li><a href="https://www.youtube.com/watch?v=sENM2wA_FTg">It's time</a></li>
             <li><a href="https://www.youtube.com/watch?v=Te3_VlimRw0">Sharks</a></li>
@@ -128,29 +153,33 @@
             <li><a href="https://www.youtube.com/watch?v=1DoI5WTjd3w">Follow you</a></li>
             <li><a href="https://www.youtube.com/watch?v=fKopy74weus">Thunder</a></li>
         </ul>
-        <h3>Sociální sítě</h3>
-        <div>
-            <p><a href="https://www.instagram.com/imaginedragons/?hl=cs">
+        <h3 id="socialnisite">Sociální sítě</h3>
+        <div class="socialniSite">
+            <a href="https://www.instagram.com/imaginedragons/?hl=cs" class="ikony">
                 <img src="ikony/instagram.svg"/>
-                </a></p>
-            <p><a href="https://www.facebook.com/ImagineDragons/">
+                </a>
+            <a href="https://www.facebook.com/ImagineDragons/" class="ikony">
                 <img src="ikony/facebook.svg"/>
-                </a></p>
-            <p><a href="https://www.youtube.com/user/ImagineDragonsVEVO">
+                </a>
+            <a href="https://www.youtube.com/user/ImagineDragonsVEVO" class="ikony">
                 <img src="ikony/youtube.svg"/>
-                </a></p>
-            <p><a href="https://discord.com/invite/imaginedragons">
-                <img
-            </a></p>
-            <p><a href="https://twitter.com/Imaginedragons">
-                <img src="ikony/twitter.svg"/>
-            </a></p>
-            <p><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q">Spotify</a></p>
-            <p><a href="https://music.apple.com/us/artist/imagine-dragons/358714030">Apple Music</a></p>
+                </a>
+            <a href="https://discord.com/invite/imaginedragons" >
+                <img src="ikony/discord.svg" class="ikony"/>
+            </a>
+            <a href="https://twitter.com/Imaginedragons" >
+                <img src="ikony/twitter.svg" class="ikony"/>
+            </a>
+            <a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q" >
+                <img src="ikony/spotify.svg" class="ikony"/>
+            </a>
+            <a href="https://music.apple.com/us/artist/imagine-dragons/358714030" >
+                <img src="ikony/applemusic.svg" class="ikony"/>
+            </a>
     
         </div>
     </div>
-    
+    <hr>
     <h2 id="galerie">Galerie</h2>
 
     <div>
@@ -226,3 +255,9 @@
     
     
   </body>
+  </body>
+  <footer>
+        <p>Made by: Nella Čvančarová, Eva Dekastello and Hana Skuhrovcová</p> 
+        <p> Code like a girl autumn 2022</p>
+        
+    </footer>

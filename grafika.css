@@ -31,6 +31,14 @@ a {
 a:visited, footer {
     color: #4E5A64 !important;
 }
+a.nav2:visited {
+    color: lightslategray !important;
+
+}
+a.nav2 {
+    color: #E7DCC5 !important;
+}
+
 
 table {
     table-layout: fixed;
@@ -127,7 +135,7 @@ nav{
     width:100%;
     top: 0;
     left: 0;
-    background-color: whitesmoke;
+    background-color: #931616;
 }
 
 .nav2 {

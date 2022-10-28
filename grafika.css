@@ -5,13 +5,13 @@ h2, h3 {
     color: #931616 !important;
 }
 h2 {
-    font-size: 180%;
+    font-size: 200%;
 }
 h3 {
-    font-size: 140%;
+    font-size: 170%;
 }
 h4 {
-    font-size: 120%;
+    font-size: 140%;
 }
 body {
     background-color: #E7DCC5;
@@ -45,6 +45,7 @@ td, th {
 .fotky {
     border: 4px solid;
     border-color:#D53939;
+    border-radius: 5%;
 }
 .ikony {
     margin-left: 2%;

@@ -61,3 +61,7 @@ footer {
 .grey {
     color:#4E5A64
 }
+
+* {
+    font-family: 'Titillium Web', sans-serif;
+}

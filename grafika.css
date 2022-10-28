@@ -4,6 +4,12 @@ html{
 h2, h3 {
     color: #931616 !important;
 }
+h1 {
+    font-family: 'Bebas Neue' !important;
+    color: #931616 !important;
+    text-align: center;
+    font-size: 750% ;
+}
 h2 {
     font-size: 200%;
 }
@@ -83,9 +89,3 @@ div {
 
 }
 
-h1 {
-    font-family: 'Bebas Neue' !important;
-    color: #931616 !important;
-    text-align: center;
-    font-size: 750% ;
-}

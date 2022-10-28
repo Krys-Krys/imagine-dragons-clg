@@ -8,8 +8,7 @@ h1 {
     font-family: 'Bebas Neue' !important;
     color: #931616 !important;
     text-align: center;
-    font-size: 750%;
-    margin-bottom: 10%;
+    font-size: 900%;
 }
 h2 {
     font-size: 200%;
@@ -104,7 +103,7 @@ h1 {
     font-family: 'Bebas Neue' !important;
     color: #931616 !important;
     text-align: center;
-    margin-top: 10%;
+    margin: 8%;
     }
 
 .alba {
@@ -133,6 +132,8 @@ nav{
 
 .nav2 {
     margin: 2%;
+    font-size: 120%;
+    font-family: Bebas Neue;
 }
 
 

@@ -4,7 +4,21 @@ html{
 h2, h3 {
     color: #931616 !important;
 }
-
+h1 {
+    font-family: 'Bebas Neue' !important;
+    color: #931616 !important;
+    text-align: center;
+    font-size: 750% ;
+}
+h2 {
+    font-size: 200%;
+}
+h3 {
+    font-size: 170%;
+}
+h4 {
+    font-size: 140%;
+}
 body {
     background-color: #E7DCC5;
     color: #140000;
@@ -38,6 +52,10 @@ td, th {
     border: 4px solid;
     border-color:#D53939;
 }
+.ikony {
+    margin-left: 2%;
+    margin-right: 2%;
+}
 
 
 svg {
@@ -53,6 +71,7 @@ img .socialniSite{
     height: 100;
     width: 100;
     }
+
 footer {
     text-align: center;
     color:#4E5A64
@@ -64,12 +83,21 @@ footer {
 
 * {
     font-family: 'Titillium Web', sans-serif;
-    
 }
+
 div {
-    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    margin-bottom: 3%;
 
 }
+
+
+.center {
+    text-align: center;
+}
+
 
 h1 {
     font-family: 'Bebas Neue' !important;
@@ -77,3 +105,11 @@ h1 {
     text-align: center;
     font-size: 70px ;
 }
+
+.alba {
+    width: 300px;
+    height: 300px;
+    border: 4px solid;
+    border-color:#D53939;
+}
+

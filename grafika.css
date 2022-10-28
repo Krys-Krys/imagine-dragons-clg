@@ -34,7 +34,7 @@ td, th {
 }
 
 
-#fotky {
+.fotky {
     border: 4px solid;
     border-color:#D53939;
 }
@@ -64,8 +64,18 @@ footer {
 
 * {
     font-family: 'Titillium Web', sans-serif;
+<<<<<<< HEAD
     
 }
 div {
     margin: 5%;
+=======
+}
+
+h1 {
+    font-family: 'Bebas Neue' !important;
+    color: #931616 !important;
+    text-align: center;
+    font-size: 50px ;
+>>>>>>> c8814a4ea2f43313aaaa6ea8cae3e564392a1f6a
 }

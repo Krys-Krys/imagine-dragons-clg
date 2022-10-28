@@ -34,7 +34,7 @@ td, th {
 }
 
 
-#fotky {
+.fotky {
     border: 4px solid;
     border-color:#D53939;
 }

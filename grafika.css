@@ -65,3 +65,10 @@ footer {
 * {
     font-family: 'Titillium Web', sans-serif;
 }
+
+h1 {
+    font-family: 'Bebas Neue' !important;
+    color: #931616 !important;
+    text-align: center;
+    font-size: 50px ;
+}

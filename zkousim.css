@@ -6,3 +6,37 @@
     flex-wrap: wrap;
     align-content: center;
   }
+
+  html{
+    box-sizing: border-box;
+}
+h2, h3 {
+    color: #931616 !important;
+}
+h1 {
+    font-family: 'Bebas Neue' !important;
+    color: #931616 !important;
+    text-align: center;
+    font-size: 750% ;
+}
+h2 {
+    font-size: 200%;
+}
+h3 {
+    font-size: 170%;
+}
+h4 {
+    font-size: 140%;
+}
+body {
+    background-color: #E7DCC5;
+    color: #140000;
+}
+
+a {
+    color: #D53939 !important;
+}
+
+a:visited, footer {
+    color: #4E5A64 !important;
+}

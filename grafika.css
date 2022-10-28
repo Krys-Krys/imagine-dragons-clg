@@ -8,7 +8,7 @@ h1 {
     font-family: 'Bebas Neue' !important;
     color: #931616 !important;
     text-align: center;
-    font-size: 750% ;
+    font-size: 900%;
 }
 h2 {
     font-size: 200%;
@@ -31,6 +31,14 @@ a {
 a:visited, footer {
     color: #4E5A64 !important;
 }
+a.nav2:visited {
+    color: lightslategray !important;
+
+}
+a.nav2 {
+    color: #E7DCC5 !important;
+}
+
 
 table {
     table-layout: fixed;
@@ -103,18 +111,45 @@ h1 {
     font-family: 'Bebas Neue' !important;
     color: #931616 !important;
     text-align: center;
-    font-size: 70px ;
-}
+    margin: 8%;
+    }
 
 .alba {
     width: 300px;
     height: 300px;
     border: 4px solid;
     border-color:#D53939;
+
 }
 .center {
     text-align: center;
 }
+.topnav {
+    margin: 2%;
+    text-align: center;
+}
+nav{
+    position:fixed;
+    margin-right: 2%;
+    padding:0;
+    width:100%;
+    top: 0;
+    left: 0;
+    background-color: #931616;
+}
+
+.nav2 {
+    margin: 2%;
+    font-size: 120%;
+    font-family: Bebas Neue;
+}
+
+
+
+
+
+
+
 
 .divspecial {
     padding-left: 500px;
